@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665974926 source:c:\users\murtayes jarif\documents\lab\task\lab_class_2\doublearray.cpp
+	"doubleArray.h"
+	<iostream>
+
+1666183130 c:\users\murtayes jarif\documents\lab\task\lab_class_2\doublearray.h
+
+1666183130 source:c:\users\murtayes jarif\documents\lab\task\lab_class_2\main.cpp
+	<iostream>
+	"doubleArray.h"
+
