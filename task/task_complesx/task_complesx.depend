@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666355783 source:c:\users\murtayes jarif\documents\lab\task\task_complesx\main.cpp
+	<iostream>
+	"complex.h"
+
+1666355278 c:\users\murtayes jarif\documents\lab\task\task_complesx\complex.h
+
+1666355724 source:c:\users\murtayes jarif\documents\lab\task\task_complesx\complex.cpp
+	"complex.h"
+	<iostream>
+
